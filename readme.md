@@ -92,11 +92,7 @@ Taip pat testuota klaidų atvejais (pvz., neegzistuojantis miestas).
 
 ## 📷 Ekrano nuotraukos (vietos įdėjimui)
 
-📸 `>> vieta ekrano nuotraukoms su Docker klaida`  
-📸 `>> vieta sėkmingam Flask paleidimui naršyklėje`  
-📸 `>> vieta terminalo komandai docker build`
 
----
 
 ## ✍️ Autorius
 
