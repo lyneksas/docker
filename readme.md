@@ -90,9 +90,6 @@ Taip pat testuota klaidų atvejais (pvz., neegzistuojantis miestas).
 
 ---
 
-## 📷 Ekrano nuotraukos (vietos įdėjimui)
-
-
 
 ## ✍️ Autorius
 
